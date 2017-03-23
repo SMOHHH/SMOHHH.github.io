@@ -1,0 +1,29 @@
+h1 {
+  color: green;
+  font-size: 50px;
+  font-family : 'Baloo Bhaina';
+}
+p{
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+
+li{
+  font-size:25px;
+}
+
+
+.contentbox{
+  background-color:#ebebeb;
+  color:#111;
+  border-radius: 5px;
+  font-family: 'Lato,regular';
+  font-size: 16px;
+  padding: 50px 60px;
+  width:500px;
+  height:500px;
+  text-align:center;
+  display: inline-block;
+  margin: 200px 700px;
+}
