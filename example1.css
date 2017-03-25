@@ -1,5 +1,3 @@
-
-
 body{
   margin :0;
   padding :0;
@@ -99,6 +97,7 @@ img.section {
   font-size:18px;
   background-color:rgb(225,0,4);
   text-align:center;
+  display:inline-block;
 }
 
 ul{
@@ -121,7 +120,7 @@ p{
   font-family:"Noto Serif";
   margin:10;
   display: inline-block;
-  text-align: left;
+  text-align: center;
   
 }
 
